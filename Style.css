@@ -1,0 +1,315 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    
+}
+.wrapper1 {
+    margin: 0;
+    width: 1519px;
+}
+.img-foodmain {
+    size: cover;
+    position: relative;
+    width: 1515px;
+    height: 620px;
+    text-align: center;  
+}
+.main-bar1{
+    text-align: center;
+    
+}
+.menu-bar1 ul{
+    display: inline-flex;
+    list-style: none;
+    color: rgb(255, 255, 254);
+  
+}
+.menu-bar1 ul a{
+    color: white;
+    text-decoration: none;
+}
+.menu-bar1 ul li.active1{
+    
+    position:relative;
+    top: 8px;
+    left:5%;
+}
+.menu-bar1 ul li.active2{
+        
+        position:absolute;
+        top: 8px;
+        left: 8.5%; 
+}
+.menu-bar1 ul li.active3{
+    
+    position:absolute;
+    top: 8px;
+    left:12%;
+}
+.menu-bar1 ul li.active4{
+    
+    position:absolute;
+    top: 8px;
+    left:15.5%;
+}
+.menu-bar1 ul li.active5{
+    
+    position:absolute;
+    top: 8px;
+    left:18.5%;
+}
+.menu-bar1 ul li.active6{
+    
+    position:absolute;
+    top: 8px;
+    left:22%;
+}
+
+.menu-bar1 ul li.active7{
+    padding: 1px;
+    position:absolute;
+    top: 8px;
+    margin-right: 15px;
+    left:65%;
+}
+.menu-bar1 ul li.active8{
+    color: aliceblue;
+    position:absolute;
+    top: 8px;
+    left:78.5%;
+}
+.menu-bar1 ul li.active9{
+    
+    position:absolute;
+    top: 8px;
+    left:90%;
+}
+.line{
+
+    position:absolute;
+    top: 4%;
+    width: 100%;
+    text-align: center;
+    color:white;
+    font-size: 25px;
+}
+.main-bar3{
+    text-align: center;
+    
+}
+.menu-bar3 ul{
+    display: inline-flex;
+    list-style: none;
+    color: rgb(249, 255, 249);
+    
+}
+.menu-bar3 ul a{
+    color: white;
+    text-decoration: none;
+}
+.menu-bar3 ul li.active10{
+    
+    position:absolute;
+    top: 70px;
+    left:58%;
+    
+}
+.menu-bar3 ul li.active11{
+    
+    position:absolute;
+    top: 70px;
+    left:65%;
+}
+.menu-bar3 ul li.active12{
+    
+    position:absolute;
+    top: 70px;
+    left:71%;
+}
+.menu-bar3 ul li.active13{
+    
+    position:absolute;
+    top: 70px;
+    left:79%;
+}
+.menu-bar3 ul li.active14{
+    
+    position:absolute;
+    top: 70px;
+    left:86%;
+}
+.menu-bar3 ul li.active15{
+    
+    position:absolute;
+    top: 70px;
+    left:93%;
+}
+.menu-bar4{
+    color: rgb(155, 247, 17);
+     font-size: 10px;
+    position:absolute;
+    top: 70px;
+    left:12%;
+}
+
+.styletext{
+    padding: 125px;
+    position:absolute;
+    top: 150px;
+    width: 82.5%;
+    text-align: center;
+    color:white;
+    font-size: 45px;
+    font-family:Brush Script MT;
+}
+.maintext{
+    padding: 135px;
+    position:absolute;
+    top: 200px;
+    width: 82.5%;
+    text-align: center;
+    color:white;
+    font-size: 45px;
+}
+.button{
+    padding: 16px 30px;
+    position:absolute;
+    top: 67%;
+    left: 50%;
+    text-align: center;
+    color:green;
+    transform: translate(-50%, 50%);
+    background-color: white;
+    font-size: 16px;
+    border: none;
+    cursor:pointer;
+    border-radius:auto;
+}
+.button:hover{
+background-color: black;
+}
+.wrapper2{
+    padding-top: 100px;
+    margin:0 auto;
+    width: 1350px;
+    
+}
+.img-foodb {
+    height: 190px;
+    width: 200px;   
+}
+.wrapper3{
+    padding-top: 20px;
+    margin:0 auto;
+    width: 1350px;
+    left: 20%;
+}
+.img-foodb {
+    height: 190px;
+    width: 200px;  
+     
+}
+.middle1{
+    
+    position:absolute;
+    top: 108%;
+    left:20%;
+    width: 800px;
+    height: 300px;
+    text-align: center;
+    border:3px solid rgb(4, 235, 73);
+}
+
+.middle-a{
+    text-align: center;
+}
+.middle-a ul{
+    display: inline-flex;
+    list-style: none;
+    color: rgb(15, 15, 15);
+}
+.middle-a ul a{
+    color: rgb(12, 12, 12);
+    text-decoration: none;
+}
+.middle-a ul .active16{
+    position:absolute;
+    top: 24%;
+    left:20%; 
+}
+.middle-a ul .active17{
+    position:absolute;
+    top: 24%;
+    left:22%; 
+}
+.middle-a ul .active18{
+    position:absolute;
+    top: 24%;
+    left:24%; 
+}
+.button2{
+    width: 140px;
+    height: 50px;
+    border:1px solid #333;
+}
+.max1{
+    left:3%;
+    top:3%;
+    
+}
+
+
+
+
+
+.last{
+    position:absolute;
+   }
+.hour-1{
+    text-align: center;
+    border:3px solid rgb(4, 235, 73);
+    width: 400%;
+}
+.hour-1 ul{
+    display: inline-flex;
+    list-style: none;
+    color: rgb(249, 255, 249);
+}
+.hour-1 ul a{
+    color: white;
+    text-decoration: none;
+}
+.hour-1 ul a .day1{
+    position:absolute;
+    top: 324%;
+    left:12%;
+}
+
+
+.main-bar1{
+    text-align: center;
+    
+}
+.menu-bar1 ul{
+    display: inline-flex;
+    list-style: none;
+    color: rgb(255, 255, 254);
+  
+}
+.menu-bar1 ul a{
+    color: white;
+    text-decoration: none;
+}
+.menu-bar1 ul li.active1{
+    
+    position:absolute;
+    top: 8px;
+    left:5%;
+}
+.main-hour{
+    position: absolute;
+    left: 8%;
+    top: 7%;
+    color: brown;
+}
